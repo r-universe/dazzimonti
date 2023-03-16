@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "anMC"]
+	path = anMC
+	url = https://github.com/dazzimonti/anmc
+	shallow = true
+	registered = true
