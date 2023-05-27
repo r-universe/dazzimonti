@@ -8,6 +8,11 @@
 	url = https://github.com/dazzimonti/anmc
 	shallow = true
 	registered = true
+[submodule "bayesRecon"]
+	path = bayesRecon
+	url = https://github.com/cran/bayesRecon
+	shallow = true
+	registered = true
 [submodule "KrigInv"]
 	path = KrigInv
 	url = https://github.com/cran/KrigInv
