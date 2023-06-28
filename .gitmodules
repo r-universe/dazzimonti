@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "anMC"]
 	path = anMC
 	url = https://github.com/dazzimonti/anmc
-	shallow = true
-	registered = true
 [submodule "bayesRecon"]
 	path = bayesRecon
 	url = https://github.com/cran/bayesRecon
-	shallow = true
-	registered = true
 [submodule "KrigInv"]
 	path = KrigInv
 	url = https://github.com/cran/KrigInv
-	shallow = true
-	registered = true
 [submodule "pGPx"]
 	path = pGPx
 	url = https://github.com/cran/pGPx
-	shallow = true
-	registered = true
 [submodule "profExtrema"]
 	path = profExtrema
 	url = https://github.com/cran/profExtrema
-	shallow = true
-	registered = true
