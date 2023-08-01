@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "KrigInv"]
+	path = KrigInv
+	url = https://github.com/cran/KrigInv
 [submodule "anMC"]
 	path = anMC
 	url = https://github.com/dazzimonti/anmc
 [submodule "bayesRecon"]
 	path = bayesRecon
 	url = https://github.com/cran/bayesRecon
-[submodule "KrigInv"]
-	path = KrigInv
-	url = https://github.com/cran/KrigInv
 [submodule "pGPx"]
 	path = pGPx
 	url = https://github.com/cran/pGPx
