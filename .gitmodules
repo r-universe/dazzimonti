@@ -13,4 +13,4 @@
 	url = https://github.com/cran/pGPx
 [submodule "profExtrema"]
 	path = profExtrema
-	url = https://github.com/cran/profExtrema
+	url = https://github.com/dazzimonti/profextrema
