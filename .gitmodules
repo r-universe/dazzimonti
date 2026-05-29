@@ -8,6 +8,9 @@
 [submodule "anMC"]
 	path = anMC
 	url = https://github.com/dazzimonti/anmc
+[submodule "fable.bayesRecon"]
+	path = fable.bayesRecon
+	url = https://github.com/dazzimonti/fable.bayesrecon
 [submodule "pGPx"]
 	path = pGPx
 	url = https://github.com/cran/pGPx
